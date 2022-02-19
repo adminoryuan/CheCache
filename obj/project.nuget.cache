@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fTK1AIDN9IBi6PDkV86IrVPW/u9Q0NzHEKksfVaRNn+aZDFTaETWDtyQ678KH3E5Vr4R26/T8UlSh9KFqrm1Bw==",
+  "success": true,
+  "projectFilePath": "/home/yh/daima/LruCache/LruCache.csproj",
+  "expectedPackageFiles": [
+    "/home/yh/.nuget/packages/google.protobuf/3.19.2/google.protobuf.3.19.2.nupkg.sha512"
+  ],
+  "logs": []
+}

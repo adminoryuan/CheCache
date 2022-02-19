@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LruCache/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.19.2"
+        },
+        "runtime": {
+          "LruCache.dll": {}
+        }
+      },
+      "Google.Protobuf/3.19.2": {
+        "runtime": {
+          "lib/net5.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.19.2.0",
+            "fileVersion": "3.19.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LruCache/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.19.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CE84qxu0ksNP/CLXOMFgZKGNcRFg4F2Cs8hmWIAjgQZoegCvFPlArg9NbHOjGt8T0f6s9ZHjEc9+pdxjK2q6Sw==",
+      "path": "google.protobuf/3.19.2",
+      "hashPath": "google.protobuf.3.19.2.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+package Probuf; 
+
+message Cache {
+    bool IsPut=5;
+    string key=1;
+    string val=2;
+}
+message Result{
+    
+    string key=3;
+    string result=4;
+}
